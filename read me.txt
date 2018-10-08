@@ -1,0 +1,9 @@
+dectect_sinewave
+
+1. reshape the train data from (500,200,1) to (500,200).
+2. using the start point and the end point to be my groundtruth
+3. set the groundtruth shape into (500,2)
+4. input train data (500,200), and groundtruth(500,2) into model
+5. using the same model as the blog "dect single recangle" 
+6. predict output
+
